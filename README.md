@@ -10,10 +10,6 @@
 
 * [Usage](#usage)
 
-* [Contributers](#contributers)
-
-* [Status](#status)
-
 * [Questions](#questions)
 
 ## Description
@@ -42,14 +38,6 @@
 * For development, simply install all dependencies by running `npm install` in the root, client,and server terminals. Follow by seeding using run `npm run seed`.  Run `npm start` to begin running the application.  
 
 * To use the deployed app, simply visit the heroku deployed link, create a user in the sign up form, and shop.  Upon checking out, you will be taken to the checkout page using stripe.
-
-## Contributers
-
-I am the Sole contributor for this project
-
-## Status
-
-This project is completed to grading standards.
 
 ## Questions
 
